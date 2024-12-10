@@ -10,11 +10,8 @@ aplikasi ini dibuat menggunakan framework laravel dengan versi 10.xx untuk mengi
 
 
 ## Instalation
-#### 1. konfigurasi database pada file .env
-#### 2. lakukan migrasi
-```bash
-  php artisan migrate
-```
+#### 1. konfigurasi file .env seperti database, local url, dan lain-lain.
+#### 2. import file SQL ke MySQL atau phpMyadmin
 #### 3. install menggunakan composer
 ```bash
   composer install
