@@ -12,7 +12,7 @@ aplikasi ini dibuat menggunakan framework laravel dengan versi 10.xx untuk mengi
 ## Instalation
 #### 1. ubah nama file .env.example menjadi .env, kemudian sesuaikan konfigurasi databasenya.
 #### 2. buat database di MySQL atau phpmyadmin dengan nama 'inspektorat' kemudian import file inspektorat.sql ke MySQL atau phpMyadmin
-#### 3. install aplikasi menggunakan composer dengan cara
+#### 3. install aplikasi menggunakan composer
 ```bash
   composer install
 ```
