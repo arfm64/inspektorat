@@ -16,3 +16,15 @@ aplikasi ini dibuat menggunakan framework laravel dengan versi 10.xx untuk mengi
 ```bash
   composer install
 ```
+
+## Demo App
+### https://inspektorat.shouraitech.com/
+### username: user1
+### password: User1234
+### role: super admin
+
+
+## Note
+### github: https://github.com/arfm64
+### Another Project https://yahootravel.shouraitech.com/
+
