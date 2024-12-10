@@ -26,5 +26,5 @@ aplikasi ini dibuat menggunakan framework laravel dengan versi 10.xx untuk mengi
 
 ## Note
 ### github: https://github.com/arfm64
-### Another Project https://yahootravel.shouraitech.com/
+### Another Big Project https://yahootravel.shouraitech.com/
 
